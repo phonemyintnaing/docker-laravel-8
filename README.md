@@ -9,7 +9,7 @@ Simple docker-compose for Laravel, with postgresql, reddis, nginx and php-fpm
 # Installation
 + To get started, the following steps needs to be taken:
 + Clone the repo.
-+ `cd docker-laravel8` to the project directory.
++ `cd docker-laravel-8` to the project directory.
 + `cp .env.example .env` to use env config file
 + Run `docker-compose up -d` to start the containers.
 + Visit http://localhost to see your Laravel application.
